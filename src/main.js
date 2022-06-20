@@ -5,5 +5,5 @@ import router from './router'
 const app = createApp(App)
 
 app.use(router)
-router.replace('/home')
+// router.replace('/login')
 app.mount('#app')
