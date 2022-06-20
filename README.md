@@ -31,4 +31,4 @@ npm run build
 �
 �
 ## Project Demo
-Demo [(Demo)](https://w3hubs.com/vuejs-login-and-register-form/).
+[(Demo)](https://w3hubs.com/vuejs-login-and-register-form/).
